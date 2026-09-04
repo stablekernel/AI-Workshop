@@ -19,11 +19,12 @@ discussion threads for refining how we teach them.
 
 ## Core Concepts
 
-These shape every workshop, regardless of length:
+These shape every workshop, regardless of length. Full documentation lives in SHRINE.
 
 - **TTV (Tokens to Value)**: maximize what every token buys
 - **Context as Currency**: what you load determines what you get
-- **Mechanical Scaffolding**: build repeatable structure once, fill with context each time
+- **[Mechanical Scaffolding](https://stablekernel.github.io/SHRINE/patterns/mechanical-scaffolding/)**: build repeatable structure once, fill with context each time
+- **[Task Routing](https://stablekernel.github.io/SHRINE/patterns/task-routing/)**: match tasks to the right model
 - **Verification Over Trust**: never ship unverified LLM output
 
 ## Discussion Topics
