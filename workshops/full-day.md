@@ -82,7 +82,7 @@
 
 - Laptops with Claude Code, Cursor, or similar [harness](https://stablekernel.github.io/SHRINE/stack/harness/)
 - Real domain data from attendees
-- SHRINE docs (full site access)
+- [SHRINE docs](https://stablekernel.github.io/SHRINE/) bookmarked
 - Whiteboard for diagramming
 
 ## Outcomes
